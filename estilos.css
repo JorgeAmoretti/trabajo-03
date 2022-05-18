@@ -1,0 +1,97 @@
+body{
+    background:url("https://w0.peakpx.com/wallpaper/778/343/HD-wallpaper-light-forest-forest-tree-green-1366x768-lime.jpg");
+    background-size:100%;
+}
+#contenedor{
+    width:1500px;
+    height:1000px;
+    margin:auto;
+}
+#cabecera{
+    background:rgba(0,0,0, 0.5);
+}
+#cabecera img{
+    width:1500px;
+    height:400px;    
+}
+#menu1{
+    width:400px;        
+    height:40px;
+    background:white;
+    position:relative;
+    top:-20px;
+    color: green;
+}
+#menu2{
+    width:400px;
+    height:40px;
+    background:rgb(11, 128, 0);
+    position:relative;
+    top:-40px;
+}
+#menu3{
+    width:400px;
+    height:40px;
+    background:rgb(11, 128, 0);
+    position:relative;
+    top:-60px;
+}
+#menu4{
+    width:400px;
+    height:40px;
+    background:rgb(11, 128, 0);
+    position:relative;
+    top:-74px;
+}
+#menu5{
+    width:400px;
+    height:40px;
+    background:rgb(11, 128, 0);
+    position:relative;
+    top:-88px;
+}
+#menu6{
+    width:400px;
+    height:40px;
+    background:rgb(11, 128, 0);
+    position:relative;
+    top:-102px;
+}
+#ladoizquierdo{
+    width:510px;
+    height:400px;
+    background:white;
+    position:relative;
+    top:-420px;
+    left:440px;
+    text-align:center;
+    color: green;
+    padding: 1px;
+}
+#ladoizquierdo img{
+    width:450px;
+    height:320px;
+}
+#ladoderecho{
+    width:550px;
+    height:400px;
+    background:white;
+    position:relative;
+    top:-840px;
+    left:950px;
+    color: rgb(47, 50, 255)
+}
+#VIDEOYOUTUBE{
+    width: 1000px;
+    margin: auto;
+    align-content: center;
+    position:relative;
+    top: -630px;
+    left: 100px;
+}
+.contenido{
+    width: 500px;
+    height: 400px;
+    text-align: center;
+    
+}
